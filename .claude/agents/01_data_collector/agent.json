@@ -1,0 +1,12 @@
+{
+  "name": "Taiwan Stock Data Collector",
+  "version": "1.0",
+  "description": "自主搜尋並下載台股歷史價量資料",
+  "capabilities": [
+    "web_search",
+    "file_operations",
+    "data_validation"
+  ],
+  "output_directory": "data/raw/price_data/",
+  "dependencies": []
+}
